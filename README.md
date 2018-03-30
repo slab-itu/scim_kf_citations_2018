@@ -1,2 +1,1 @@
-This code is to reproduce the results of paper entitled "Identifying Important Citations using Contextual Information from
-Full Text" submitted to JCDL 2017 conference
+This data and code is to reproduce the results of paper entitled "A Novel Machine-Learning Approach to Measuring Scientific Knowledge Flows Using Citation Context Analysis" submitted to Scientometrics journal.
